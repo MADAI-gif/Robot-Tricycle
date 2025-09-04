@@ -1,3 +1,4 @@
+
 # Contrôle d'un Robot Car Unicycle via une IHM (Interface Homme-Machine)
 
 Ce projet vise à créer une interface utilisateur pour contrôler un robot car unicycle.
@@ -46,10 +47,9 @@ L'architecture du projet se compose de plusieurs composants principaux :
 Les contributions sont les bienvenues ! Pour toute modification majeure, veuillez d'abord discuter de votre idée de changement en créant une issue.
 ✍️ Auteurs
 
-    EL JILY Mohamed
-    CHOUBRI Douae
-    BELAIZI Asmae
-    BOUMLINE Zakaria
+    MAHAMAT Madaï
+    Gelis MELACHEU MOMO <g2melach@enib.fr>; 
+    Logann MENARD <l2menard@enib.fr>; 
 
 📝 Licence
 
